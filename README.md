@@ -23,8 +23,8 @@ Follow these steps once, then skip straight to [Usage](#usage) every time after.
 ### 1. Install
 
 ```bash
-git clone <this repo>
-cd aws-log-analyzer
+git clone https://github.com/Hardikrepo/ai-aws-log-analyzer.git
+cd ai-aws-log-analyzer
 pip install -r requirements.txt
 ```
 
