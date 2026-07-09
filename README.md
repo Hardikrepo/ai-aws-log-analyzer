@@ -6,6 +6,10 @@ questions in English. Nothing gets installed in your cloud account; it's a local
 reads logs through each cloud's normal read-only APIs and sends the text to an AI API (OpenAI by
 default, or Anthropic).
 
+## AWS architecture
+
+![AI AWS Log Analyzer architecture](docs/aws-architecture-generated.png)
+
 ## What it can do
 
 - **Summarize & spot anomalies** -- "what happened in this time window, and what looks off?"
